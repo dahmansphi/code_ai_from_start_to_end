@@ -1,0 +1,18 @@
+[project]
+name = "FSP_V01"
+version = "0.0.1"
+authors = [
+  { name="Dr. Deniz Dahman", email="dahmansphi@gmail.com" },
+]
+description = "A tiny tool to predict a stock price of a specific company given the historical details of it's price. It's a practical implmentation for Book 4 contents from the series THE BIG BANG OF DATA SCIENCE"
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://dahmansphi.com"
+"Bug Tracker" = "https://github.com/dahmans-phi"
