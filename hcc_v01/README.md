@@ -1,16 +1,22 @@
-Project Name = "HCC_V01"
-version = "0.0.1"
-authors = Dr. Deniz Dahman
-short description = "A tiny tool to predict a chest cancer upon loading X-ray image. It's a practical implmentation for Book 4 contents from the series THE BIG BANG OF DATA SCIENCE"
-requires-python = ">=3.12"
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: MIT License",
-    "Operating System :: OS Independent",
-]
-[project.urls]
-"Homepage" = "https://dahmansphi.com/code-ai-s2e/"
-"Bug Tracker" = "https://github.com/dahmansphi/code_ai_from_start_to_end"
+
+# Project Description
+
+> Project Name = "HCC_V01"
+> version = "0.0.1"
+> authors = Dr. Deniz Dahman
+> short description = "A tiny tool to predict a chest cancer upon loading X-ray image. It's a practical implmentation for Book 4 contents from the series THE BIG BANG OF DATA SCIENCE"
+> requires-python = ">=3.12"
+> classifiers:
+`"Programming Language :: Python :: 3",`
+
+`"License :: MIT License",`
+
+`"Operating System :: OS Independent",`
+
+> [project.urls]
+`"Homepage" = "https://dahmansphi.com/code-ai-s2e/"`
+
+`"Bug Tracker" = "https://github.com/dahmansphi/code_ai_from_start_to_end"`
 
 
 ![the big bang of data science banner.](/assets/cover_page.jpg)
