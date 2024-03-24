@@ -9,7 +9,7 @@
 
 > short description = "A tiny tool to predict a chest cancer upon loading X-ray image. It's a practical implmentation for Book 4 contents from the series THE BIG BANG OF DATA SCIENCE"
 
-> requires-python = ">=3.12"
+> requires-python = ">=3.11"
 
 
 classifiers:
@@ -57,4 +57,42 @@ It is recommended to create virtual environment before you start on the implemen
 
 ```python -m venv /path/to/new/virtual/environment```
 
+Activate the virtual env on Windows
+
+```tutorial-env\Scripts\activate```
+
+Activate the virtual env on Unix or MacOS, run:
+
+```source tutorial-env/bin/activate```
+
+## Requirements Installation
+
+you may now install, using the terminal, the requirements for this app to run as follow:
+
+```pip install -r requirements.txt```
+
+## Run the app
+once you have all that in place make sure to navigate to the main directory of the project 
+
+`hcc_v01/`
+
+head to your terminal and run:
+
+```python cli.py```
+
+you should be then be able to launch the app and test yourself
+
+## EXE app
+
+you may also create __exe__ for the app using the [auto-pyto-exe](https://pypi.org/project/auto-py-to-exe/)
+
+install the package:
+
+```pip install auto-py-to-exe```
+
+
+Then to run it, execute the following in the terminal:
+```auto-py-to-exe```
+
+Check out the documentation and here we go!
 
