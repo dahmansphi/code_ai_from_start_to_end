@@ -61,10 +61,16 @@ We are going to use a common programming language in this material, that is __Py
 To this end, **the fourth book** is carefully crafted to meet all the requirements to make that kind of transformation option from __predictive model__ into a __GUI__. Here is a quick view of the content of the book. 
 
 ### Introduction 
+1. [✓] COURSE STRATEGY
+2. [✓] PROJECT & TIMELINE
+3. [✓] PROGRAMMING & STRUCTURE 
+4. [✓] DEVELOPMENT – EXECUTION & MAINTENANCE
 
+### Technical Setup 
 1. [✓] THE UNDERLYING AI PRINCIPLE
 2. [✓] FRONEND & BACKEND AND DB PRINCIPLES
 3. [✓] PROJECT SETUP AND ESSENTIALS
+
 3.1. ➢ Python Language Environment
 
 3.2. ➢ Visual Studio Code IDE Env + Virtual Env
