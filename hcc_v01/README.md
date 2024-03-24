@@ -2,11 +2,17 @@
 # Project Description
 
 > Project Name = "HCC_V01"
+
 > version = "0.0.1"
+
 > authors = Dr. Deniz Dahman
+
 > short description = "A tiny tool to predict a chest cancer upon loading X-ray image. It's a practical implmentation for Book 4 contents from the series THE BIG BANG OF DATA SCIENCE"
+
 > requires-python = ">=3.12"
+
 > classifiers:
+
 `"Programming Language :: Python :: 3",`
 
 `"License :: MIT License",`
