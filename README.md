@@ -16,6 +16,7 @@
 > 3. you can have a video screencast on the all the chapters' contents on [Screencasts from Code AI from the Start to The End Chapters- Book Four](https://youtu.be/bQh26H7UYSo)
 > 4. you can access the documentation of [Project-ONE](https://github.com/dahmansphi/prediction_from_start_to_end/blob/main/lab/part_one/book_3_LAB_code_part_one.ipynb)
 > 5. you can access the documentation of [Project-TWO](https://github.com/dahmansphi/prediction_from_start_to_end/blob/main/lab/part_two/book_3_LAB_code_part_two.ipynb)
+> 6. you can access the LAB- for creating the __predictive model__ for the first project from [LAB-CODE](https://github.com/dahmansphi/code_ai_from_start_to_end/blob/main/hcc_v01/hcc_v01/model/healthcareProj.ipynb)
 
 
 ## Author's Words
