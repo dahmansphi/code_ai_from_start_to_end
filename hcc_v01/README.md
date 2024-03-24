@@ -54,3 +54,7 @@ The NIH chest radiographs that support the findings of this study are publicly a
 ## Environment
 
 It is recommended to create virtual environment before you start on the implementation step
+
+```python -m venv /path/to/new/virtual/environment```
+
+
