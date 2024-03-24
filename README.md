@@ -98,7 +98,7 @@ To this end, **the fourth book** is carefully crafted to meet all the requiremen
 
 ## Who is this book for?
 
-This book is for anyone with the interest in building, creating and producing a professional product that has a future enhancement feature, in other words, a product that is good, successful and intelligent- in technical language it’s referred to as __analytical model__. Aim then to utilize it using available option that is to create a __GUI__ that user can interact with, and its backend is that predictive model. 
+This book is for anyone with the interest in building, creating and producing a professional product that has a future enhancement feature, in other words, a product that is good, successful and intelligent- in technical language it’s referred to as __predictive model__. Aim then to utilize it using available option that is to create a __GUI__ that user can interact with, and its backend is that predictive model. 
 
  To this end, it's recommended to have basic knowledg about coding, research, analysis and prediction, with extreme enthusiasm to learn how to make the right decision. So, it is meant for an audience of: (1) students, under or postgraduate. (2) scholars, (3) researchers, (4) scientists, (5) professionals from technical or academic background in IT, computer science or similar domain. 
 
