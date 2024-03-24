@@ -14,7 +14,7 @@
 
 classifiers:
 
-`"Programming Language :: Python :: 3",`
+`"Programming Language :: Python :: 3.11,`
 
 `"License :: MIT License",`
 
@@ -26,6 +26,9 @@ classifiers:
 [Homepage](https://dahmansphi.com/code-ai-s2e/)
 
 [Bug Tracker](https://github.com/dahmansphi/code_ai_from_start_to_end)
+
+## Data Availability
+The NIH chest radiographs that support the findings of this study are publicly available at https://nihcc.app.box.com/v/ChestXray-NIHCC and https://www.kaggle.com/c/rsna-pneumonia-detection-challenge. The Indiana University Hospital Network database is available at https://openi.nlm.nih.gov/. The WCMC pediatric data that support the findings of this study are available in the identifier 10.17632/rscbjbr9sj.3
 
 
 ![the big bang of data science banner.](/assets/cover_page.jpg)
@@ -44,3 +47,10 @@ classifiers:
 > 4. you can access the documentation of [Project-ONE](https://github.com/dahmansphi/code_ai_from_start_to_end/blob/main/hcc_v01/README.md)
 > 5. you can access the documentation of [Project-TWO](https://github.com/dahmansphi/code_ai_from_start_to_end/blob/main/fsp_v01/README.md)
 > 6. you can access the LAB- for creating the __predictive model__ for the first project from [LAB-CODE](https://github.com/dahmansphi/code_ai_from_start_to_end/blob/main/hcc_v01/hcc_v01/model/healthcareProj.ipynb)
+
+
+# Documentation
+
+## Environment
+
+It is recommended to create virtual environment before you start on the implementation step
