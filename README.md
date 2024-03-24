@@ -47,7 +47,7 @@ If you prefer *any other way of contribution*, please feel free to contact me di
 
 ## The Content
 
-This is the fourth element of **the Big Bang of Data Science**, **`Prediction from the Start to The End`**.  
+This is the fourth element of **the Big Bang of Data Science**, **`Code AI from the Start to The End`**.  
 I don’t want to stick to that _abstract and direct_ definition from the academic book, on the meaning of coding, but from the industrial one. So, I believe **CODING** is a language syntax that machines use to communicate to or with. In other words, just like humans, machines use their own language, recently in the form of a digital form of [0, 1], to speak to each other or with us. So, if you **code** something it’s as if you are authoring a text, where the code is the structure and syntax of that language you author of, and the rules and structure of that language must be then obeyed. As if a text is authored using a human language, the form of outcome must be a book, or a paper, or similar forms; if you **code** using any programming language, then the outcome form is going to be a **GUI** form which can be of taking input as arguments and outcome results to screen, or just a script that execute certain tasks.  
 
 
