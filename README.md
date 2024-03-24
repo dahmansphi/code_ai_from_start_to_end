@@ -12,8 +12,8 @@
 
 > [!IMPORTANT]
 > 1. you can have an author introduction to this book on [Welcome, by the author, to the Fourth Book- Code AI from the Start to The End](https://youtu.be/yERHOW5UfvU) 
-> 2. You can have a video presentation to this book on [Code AI from The Start to The End- Chapters Review](https://youtu.be/g84VMCxVoPs)
-> 3. you can have a video screencast on the all the chapters' contents on [Screencasts from Code AI from the Start to The End Chapters- Book Four](https://youtu.be/mkkH47ZImbw)
+> 2. You can have a video presentation to this book on [Code AI from The Start to The End- Chapters Review](https://youtu.be/GpPhP7snx3k)
+> 3. you can have a video screencast on the all the chapters' contents on [Screencasts from Code AI from the Start to The End Chapters- Book Four](https://youtu.be/bQh26H7UYSo)
 > 4. you can access the documentation of [Project-ONE](https://github.com/dahmansphi/prediction_from_start_to_end/blob/main/lab/part_one/book_3_LAB_code_part_one.ipynb)
 > 5. you can access the documentation of [Project-TWO](https://github.com/dahmansphi/prediction_from_start_to_end/blob/main/lab/part_two/book_3_LAB_code_part_two.ipynb)
 
@@ -62,137 +62,53 @@ To this end, **the fourth book** is carefully crafted to meet all the requiremen
 
 ### Introduction 
 
-1. [✓] Course Strategy   
-2. [✓] Principles of data  
-3. [✓] Data Platform  
-4. [✓] Timeline representative 
+1. [✓] THE UNDERLYING AI PRINCIPLE
+2. [✓] FRONEND & BACKEND AND DB PRINCIPLES
+3. [✓] PROJECT SETUP AND ESSENTIALS
+3.1. ➢ Python Language Environment
 
-### The Story of Math 
+3.2. ➢ Visual Studio Code IDE Env + Virtual Env
 
-1. [✓] Philosophy of math  
-2. [✓] Area of mathematics
+3.3. ➢ Qt Designer App setup
 
-2.1. ➢ Geometry
+3.4. ➢ Pyside6 Library setup 
 
-2.2. ➢ Algebra
-
-2.3. ➢ Calculus & Analysis
-
-2.4. ➢ Discrete Mathematics
-
-2.5. ➢ Math Logic
-
-2.6. ➢ Decision Science 
-
-2.7. ➢ Computational Math
-
-### You must know 
-
-1. [✓] Number Properties
-2. [✓] The universe of polynomial
-3. [✓] Equation & Function & System 
-4. [✓] Trigonometry 
-5. [✓] e & Natural Logarithm ln
-6. [✓] Exponential Function & Logarithm
-7. [✓] Derivatives & Integrals 
-8. [✓] Matrix, Eigenvalue, Eigenvector 
-9. [✓] combination and permutation
-10. [✓] Python LAB- implementation on the abstract outlines 
-
-### Wourld of Prediction
-
-1. [✓] Introduction to Prediction
-2. [✓] Map of prediction 
-3. [✓] Elaboration on the map from left 
-4. [✓] Elaboration on the map from right 
-5. [✓] Elaboration on the map from source  
-
-### Prediction by Probability 
-
-1. [✓] Introduction to Probability
-2. [✓] Univariate concept of probability- Discrete value
-3. [✓] Univariate concept of probability- Continues value
-4. [✓] Bivariate concept of probability
-5. [✓] Multivariate concept of probability
-6. [✓] Probability predictive model-discrete value using: Bernouil; Binomial; Geometric; Pascal; & Hypermetric distribution
-7. [✓] Probability predictive model-continues value using: uniform; exponential; normal; gamma; and cauchy distribution
-8. [✓] Python Lab- implementation on every probability model
-
-### Prediction by RCC 
-
-1. [✓] Introduction to RCC
-2. [✓] Introdution to Regression
-
-2.1. ➢ Simple Linear Regression
-
-2.2. ➢ Multiple Linear Regression
-
-2.3. ➢ Nonlinear Regression
-
-2.4. ➢ Regulization- LASO & RIDGE
-
-3. [✓] Introduction to Classification
-
-3.1. ➢ Logistic Regression
-
-3.2. ➢ K-nearst Neighbor
-
-3.3. ➢ Decision Tree
-
-3.4. ➢ Support Vector Machine
-
-3.5. ➢ Naive Bayse
-
-3.6. ➢ Deep Learning- Introduction
-
-3.7. ➢ Deep Learning- Neural Network Framework
-
-3.8. ➢ Deep Learning- RCC Framework
-
-3.9. ➢ Deep Learning- Reinforcement Learning Framework
-
-3.10. ➢ Deep Learning- RNN Framework
-
-4. [✓] Introduction to Clustering
-5. [✓] Feature Engineering intro
-
-5.1. ➢ Data Preparation
-
-5.2. ➢ Feature Reduction
+3.5. ➢ Sqlite3 setup 
 
 
-### APPENDIX- Python from the start to the End
-1. [✓] Introduction
-2. [✓] Setup environment 
-3. [✓] Informal introduction to python 
-4. [✓] Control flow tool kit
-5. [✓] Data structure 
-6. [✓] Modules
-7. [✓] Input & output 
-8. [✓] Errors & exceptions 
-9. [✓] Classes 
-10. [✓] Tour of the standard libraries 
-11. [✓] Development tips
-12. [✓] NumPy package
-13. [✓] Pandas package
-14. [✓] Tensor Flow basics
+### HCC_V01_Project 
+
+1. [✓] Project Introduction  
+2. [✓] Environment & Setup Workflow
+3. [✓] Project Execution 
+
+
+### FSP_V01_Project 
+
+1. [✓] Project Introduction  
+2. [✓] Environment & Setup Workflow
+3. [✓] Project Execution
+
 
 ## Who is this book for?
 
-This book is for anyone with the interest in building, creating and producing a professional product that has a future enhancement feature. it's recommended to have basic knowledg about elementry math, research and analysis, with extreme enthusiasm to learn how to make the right decision. So, it is meant for an audience of: (1) students, under or postgraduate. (2) scholars, (3) researchers, (4) scientists, (5) professionals from technical or academic background in IT, computer science or similar domain. 
+This book is for anyone with the interest in building, creating and producing a professional product that has a future enhancement feature, in other words, a product that is good, successful and intelligent- in technical language it’s referred to as __analytical model__. Aim then to utilize it using available option that is to create a __GUI__ that user can interact with, and its backend is that predictive model. 
+
+ To this end, it's recommended to have basic knowledg about coding, research, analysis and prediction, with extreme enthusiasm to learn how to make the right decision. So, it is meant for an audience of: (1) students, under or postgraduate. (2) scholars, (3) researchers, (4) scientists, (5) professionals from technical or academic background in IT, computer science or similar domain. 
 
 > [!TIP]
 > The trainer strongly advice on learning the materials from the first book [Research from the Start to the End](https://github.com/dahmansphi/research_from_start_to_end); that can absolutely help you to perform way better in this book.
 > The trainer strongly advice on learning the materials from the second book [Analysis from the Start to the End](https://github.com/dahmansphi/analysis_from_start_to_end); that can absolutely help you to perform way better in this book.
+> The trainer strongly advice on learning the materials from the third book [Prediction from the Start to the End](https://github.com/dahmansphi/prediction_from_start_to_end); that can absolutely help you to perform way better in this book.
 
 # Book competitive advantage
 
 > [!IMPORTANT] 
-> 1. The main principle of this material is to fix you in the state of independence, where you can build, assemble and create your complete own AI model. For that reason, the main element to accomplish that is comprehensive level of understanding Math, so the first step it shows you how math is an independent language, and then introduces you the main field of math for you to conceptualize its importance.. 
-> 2. Based on the first advantage, the material selects several subjects of math that you must know and master. Those subjects are discussed not from a rigid abstract of math but from a wider level of understanding the use of it as an independent language. Moreover, every line of this subject is applied with real life example and code implementation in Python, in addition to visualization ability.
-> 3. The map of prediction is a very unique way this material illustrates the entire world of AI. It shows you the input process and output of this phenomenon. More important, in every possible type of predictive model, e.g. regression, classification or clustering, it implements them using several common types of algorithms and methods from scratch to the end. In this way you will have strong ability from abstract and applied way.
-> 4. Unlike many materials that speak about the subject of AI and machine learning, it presents some common frameworks as the basis, this material shows you that you can utilize any of those frameworks, or even re-engineer them your way. For instance, it shows you frameworks of Neural network, CNN, RNN, Reinforcement learning, which are discussed as an independent training programs, but once you master the math of AI you will see that you only need few minutes to build from scratch on your own. Moreover, you will write your own code to do so using Python.
-> 5. Finally, if you have come from background with no experience in code writing, this material introduces a whole appendix coaching you on learning Python from the start to the end. so, in this case, you can even procced from the very beginning.     
+> 1. The main title is __code__, that implies the focus on the fundamentals of programming language. Most of the material discusses the subject of coding or such within the context of computer science or similar discipline. Unlike those materials, the outlines of this book discuss the subject of coding beyond the boundaries of computer science. In fact, it introduces the idea of coding as an independent language that machines use to communicate (to or with) each other, as well as us. This principle gives you then the ability to use any programming language of your choice instead of limiting your ability within the context of one at its own. 
+> 2. Many materials discuss subjects of that sort of title in such a way as only coding perspective, i.e. it dives directedly into the context and the syntax of the language. Even though, could be as applied examples in form of project and implementation. __Unlike__ this approach, this material essentially shows you the story of a project or a solution you are developing from the very beginning from the stakeholder point of view. So, you learn how to ask questions, concerning the outlines of the material, then based on that you learn how formulate essential proposal about the solution that you intend to design, this includes: the design, the form of the solution, the tools you intend to use as the programming language, the database, external libraries, IDEs, etc. Moreover, it shows you how to fix the __expectation__ factor, i.e. you must be realistic on the outcome of your product, since it’s not a primitive kind of software, but a predictive driven kind of solution. As a result, you may consider yourself with the title as __Solution Architect__ rather than just only _Software developer_.  
+> 3. One of the most important advantages of this material is the emphasis on __the state of independence__. Let me share with you an example, in the second project which we intend to build, it’s a problem related to _finance_ domain. We intend to watch for a stock price change in __real time__. Since I am dealing with real-time data then the entire operation must take a different approach. Imagin the price changes in a matter of seconds, or a minute, then how we shall deal with it. You might think of reaching out directly to that price change which is operating on another network and fetching it to our local network then do whatever you want. However, this is wrong, from technical aspects you find later. Therefore, we must find sort of __middleman__ that fetch the price store it temporary and we access that storage in real-time. This is where framework as __Apache Klafka__ suggest solution of that sort. However, this material shows you how __to break free__ using simple tools within our capacity to e.g. use __FTP__ server. So, we are going to create our own Klafka feature, as fixing this FTP to fetch, store the price in __serialized way__ on temporary storage, and then we have just to access and get our work done. As a result, you will enjoy the status of being __in the state of independence__.  
+>4. Finally, this material follows the approach of __simulative__ setup. In fact, I will deliver the content from the aspect as if two colleagues are working to solve a problem, rather than a training program. So, you feel as if you and I are in the same working environment to solve and produce a solution for the problem at hand.   
+     
 
 # Outlets
 
@@ -201,6 +117,6 @@ you can have access to the recorded lessons of this book from these outlets:
 2. [outlet_2](https://www.udemy.com/course/prediction-s2e)
 
 # The digital copy 
-you can have access to the ppt digital copy in pdf format from [digital ppt book](/assets/prediction_s2e_final.pdf) 
+you can have access to the ppt digital copy in pdf format from [digital ppt book](/assets/codeai_s2e_fianl.pdf) 
 
 
