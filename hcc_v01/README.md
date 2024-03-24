@@ -23,9 +23,9 @@ classifiers:
 
 [project.urls]
 
-`"Homepage" = "https://dahmansphi.com/code-ai-s2e/"`
+[Homepage](https://dahmansphi.com/code-ai-s2e/)
 
-`"Bug Tracker" = "https://github.com/dahmansphi/code_ai_from_start_to_end"`
+[Bug Tracker](https://github.com/dahmansphi/code_ai_from_start_to_end)
 
 
 ![the big bang of data science banner.](/assets/cover_page.jpg)
